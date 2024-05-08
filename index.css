@@ -18,7 +18,7 @@ body{
     margin-top: 10px;
 }
 .voltar{
-      height: 35px;
+      height: 50px;
       margin-right: 5%;
       margin-top: 10px;
   }
@@ -45,11 +45,11 @@ body{
     border-radius: 10px;
 }
 .icon{
-    margin: 50px;
+    margin: 60px;
     height: 25px;
 }
 .assign{
-    width: 150px;
+    width: 200px;
 }
 .divsacsave{
     margin-inline: 100px;
