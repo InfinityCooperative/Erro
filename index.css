@@ -12,16 +12,13 @@ body{
     height: auto;
 }
 .brasil{
-    position: relative;
     height: 50px;
     margin-left: 90%;
-    margin-top: 10px;
 }
 .voltar{
-      height: 50px;
+      height: 70px;
       margin-right: 95%;
-      margin-top: 10px;
-  }
+}
 .logo{
     margin: 9%;
     position: relative;
