@@ -19,7 +19,7 @@ body{
 }
 .voltar{
       height: 50px;
-      margin-right: 5%;
+      margin-right: 95%;
       margin-top: 10px;
   }
 .logo{
@@ -52,7 +52,7 @@ body{
     width: 200px;
 }
 .divsacsave{
-    margin-inline: 100px;
+    margin-inline: 300px;
     border-width: 0.7px;
     border-radius: 10px;
     background: ghostwhite;
