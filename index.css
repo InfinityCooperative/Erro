@@ -55,10 +55,10 @@ body{
     background: ghostwhite;
 }
 .atendimento{
-    height: 100px;
+    height: 100px 0px 50px 0px;
 }
 .clivenexp{
-    width: 100px;
+    width: 100px 0px 50px 0px;
 }
 .inf{
     padding: 5px;
