@@ -3,7 +3,7 @@ body{
     text-align: center;
     box-sizing: border-box;
 }
-.cabeçalho{
+.cabecalho{
     margin: -15px -7px -15px -8px;
     background: rgb(205, 205, 205);
     border-width: 0.7px;
@@ -63,7 +63,7 @@ body{
     margin:0px 0px 0px -90px;
 }
 .inf{
-    margin: 90px;
+    margin: -90px;
     padding: 5px;
     height: 15px;
 }
