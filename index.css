@@ -60,9 +60,10 @@ body{
 }
 .clivenexp{
     width: 100px;
-    margin:0px 0px 0px -198px
+    margin:0px 0px 0px -150px;
 }
 .inf{
+    margin: 50px;
     padding: 5px;
     height: 15px;
 }
