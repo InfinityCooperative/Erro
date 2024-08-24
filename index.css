@@ -49,10 +49,10 @@ body{
     width: 200px;
 }
 .divsacsave{
+    margin: 0px 207px 0px 209px;
     border-width: 0.7px;
     border-radius: 10px;
     background: ghostwhite;
-    margin: 0px 207px 0px 209px;
 }
 .atendimento{
     heigth: 100px;
