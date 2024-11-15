@@ -1,0 +1,92 @@
+body{
+    margin:-2% 0% -1% 0%;
+    background-color:rgb(218, 241, 236) ;
+    text-align: center;
+    box-sizing: border-box;
+}
+.cabeçalho{
+    background: rgb(205, 205, 205);
+    border-width: 0.7px;
+    border-color: #000;
+    border-radius: 5px;
+    height: auto;
+}
+.voltar{
+    height: 35px;
+    margin: 2% 0% 0% -95%;
+}
+.bandeira{
+    position: absolute;
+    margin: -114px 0% 0% 34%;
+    height: 80px;
+    transition: 1s;
+}
+.bandeira:hover{
+    position: absolute;
+    margin: -72px 0% 0% 34%;
+    height: 80px;
+    transition: 1s;
+}
+.logo{
+    margin: 9%;
+    position: relative;
+    height: 250px;
+}
+.form{
+    margin: 17px 149px 15px 151px;
+    border-width: 0.7px;
+    border-radius: 10px;
+    background: darkgrey;
+}
+.botaoenv:hover{
+    background-color: rgb(92, 255, 155);
+    color: black;
+    width: 60px;
+    height: 25px;
+    border: none;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    padding: 5px;
+    border-radius: 10px;
+}
+.icon{
+    margin: 60px;
+    height: 25px;
+}
+.assign{
+    width: 200px;
+}
+.divsacsave{
+    margin: 0px 24px 0px 32px;
+    border-width: 0.7px;
+    border-radius: 10px;
+    background: ghostwhite;
+}
+.atendimento{
+    height: 100px;
+}
+.clivenexp{
+    width: 100px;
+}
+.inf{
+    padding: 5px;
+    height: 15px;
+}
+img.doação {
+    display: grid;
+    transform: rotate(-45deg);
+    margin: 36px 30px 47px 90%;
+    height: 71px;
+    justify-content: end;
+}
+a{
+    display: contents;
+}
+.direitos{
+    font-size: 9px;
+    text-align: center;
+    margin: 0px 0px 1% 0px;
+}
+h6 img{
+margin: 0px 0px -0.5% 0px;
+    height: 20px;
+}
