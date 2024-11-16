@@ -71,7 +71,7 @@ body{
     padding: 5px;
     height: 15px;
 }
-img.doação {
+img.doacao {
     display: grid;
     transform: rotate(-45deg);
     margin: 36px;
