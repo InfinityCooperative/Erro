@@ -5,6 +5,7 @@ body{
     box-sizing: border-box;
 }
 .cabecalho{
+    margin-top: -5%;
     background: rgb(205, 205, 205);
     border-width: 0.7px;
     border-color: #000;
@@ -12,31 +13,34 @@ body{
     height: auto;
 }
 .voltar{
-    height: 35px;
-    margin: 2% 0% 0% -95%;
+    height: 32px;
+    margin: 3% 0% 0% -85%;
 }
 .bandeira{
     position: absolute;
-    margin: -114px 0% 0% 34%;
+    margin: -106px 0% 0% 31%;
     height: 80px;
     transition: 1s;
 }
 .bandeira:hover{
     position: absolute;
-    margin: -72px 0% 0% 34%;
+    margin: -61px 0% 0% 31%;
     height: 80px;
     transition: 1s;
 }
 .logo{
     margin: 9%;
     position: relative;
-    height: 250px;
+    height: 150px;
 }
 .form{
-    margin: 17px 149px 15px 151px;
+    margin: 0px 35px 0px 50px;
     border-width: 0.7px;
     border-radius: 10px;
     background: darkgrey;
+}
+input.botaoenv {
+    margin: 20px;
 }
 .botaoenv:hover{
     background-color: rgb(92, 255, 155);
