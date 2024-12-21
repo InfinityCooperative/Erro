@@ -34,23 +34,21 @@ body{
     height: 150px;
 }
 .form{
-    margin: 0px 35px 0px 50px;
-    border-width: 0.7px;
+    background: ;
+    display: inline-grid;
+    padding: 30px 60px;
+    margin: 50px;
+    border-width: 0.5px;
+    border-style: solid;
     border-radius: 10px;
-    background: darkgrey;
 }
-input.botaoenv {
-    margin: 20px;
+label{
+    margin: 10px;
+    font-weight: bold;
 }
-.botaoenv:hover{
-    background-color: rgb(92, 255, 155);
-    color: black;
-    width: 60px;
-    height: 25px;
-    border: none;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
-    padding: 5px;
-    border-radius: 10px;
+.botaoenv:hover {
+    text-decoration: underline;
+    border-style: solid;
 }
 .icon{
     margin: 60px;
