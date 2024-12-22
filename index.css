@@ -34,7 +34,7 @@ body{
     height: 150px;
 }
 .form{
-    background: ;
+    background: darkgray;
     display: inline-grid;
     padding: 30px 60px;
     margin: 50px;
@@ -89,6 +89,6 @@ a{
     margin: 0px 0px 1% 0px;
 }
 h6 img{
-margin: 0px 0px -0.5% 0px;
+    margin: 0px 0px -0.5% 0px;
     height: 20px;
 }
